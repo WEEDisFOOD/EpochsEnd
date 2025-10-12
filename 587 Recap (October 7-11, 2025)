@@ -1,0 +1,42 @@
+### Epoch 587 Recap (October 7-11, 2025)
+
+#### Governance and Proposals
+- **Project Catalyst Fund 14 Voting Conclusion**: Voting wrapped up with the introduction of quadratic voting, designed to empower smaller ADA holders and promote inclusive decision-making. This has sparked enthusiasm for decentralizing project funding, potentially benefiting global contributors and leveling the playing field for diverse proposals.
+- **Treasury Allocation for DeFi Stablecoin Liquidity (50M–100M ADA)**: A highly debated proposal seeks to deploy treasury funds to incentivize stablecoin liquidity in DeFi protocols, focusing on multisig oversight, risk management, audits, and UI enhancements. Proponents argue it could attract external capital and boost yields, while critics raise concerns about corruption, insider favoritism, and accountability. Tensions have escalated with threats of legal action from excluded projects like CswapDEX, emphasizing the need for fair voting over "bullying tactics." This reflects broader governance challenges, including voter fatigue and proposal quality.
+- **Indianchain Initiative**: Ranked in the top 5 most-voted Catalyst proposals, this aims to advance blockchain adoption in India, underscoring Cardano's global outreach and regional ecosystem growth.
+- **MedFiNet Health Proposal**: A time-sensitive Catalyst bid to digitize child immunizations in rural Nigeria using Cardano tech, targeting millions for real-world social impact in healthcare—urging community votes before deadlines.
+- **Matterfi Send-to-Name Integration**: Another Catalyst proposal (nearing vote end) for user-friendly transactions via "send-to-name" features, collaborating with Litecoin Foundation for security and interoperability.
+- **Intersect Committee Elections**: Application deadlines extended to October 24, with voting from October 27–November 7 and results on November 14, encouraging broader community influence on Cardano's direction.
+- **Funding Reforms and Diversity**: Calls for diverse funding instruments in Catalyst, better incentives, integrated team support, and addressing inefficiencies like low-quality proposals to reduce voter fatigue and enhance adoption.
+
+#### Technical Developments and Roadmap
+- **Hydra Node v1.0.0 Mainnet Launch**: Cardano's Layer-2 scaling solution is now live, enabling high-throughput for DeFi, gaming, and real-time apps. A stress test ("Hydra Doom") achieved over 650,000 TPS consistently, peaking at 1M+ TPS and processing 14B+ transactions, hailed by Charles Hoskinson as a 2026 game-changer.
+- **Leios, Peras, and Mithril Updates**: Weekly reports highlight Leios for a 100x TPS boost, Peras enhancements, Mithril decentralization, and a new governance explorer. These tie into a bullish roadmap emphasizing scalability, on-chain governance, and 250M+ ADA treasury distributions for builders.
+- **Multi-Client Decentralization and L2 Progress**: From the T4I Summit, advancements in node clients (e.g., Amaru Rust, Dingo, C# by Saibdev) target full decentralization by mid-2026. L2 testnets like Midgard and Sundial aim for year-end launches, improving interoperability.
+- **New Research Papers**: Input Output published works on game-theory-based reward schemes (using Shapley value for fairer stake pools) and token price stability in PoS systems, particularly for dual-token setups like Midnight—potentially guiding future upgrades.
+- **Proof-of-Origin Tech**: Cardano-based solutions to combat deepfakes and misinformation by verifying media origins on-chain, positioning the ecosystem as a trust-restorer amid AI challenges.
+- **Yoroi Wallet v6.0 Update**: Mobile enhancements include smarter on-chain swaps (defaulting to ADA-USDA pairs), integrations with MuesliSwap, DexHunter, and Minswap for faster DeFi UX.
+- **Comet Mobile App Refresh**: Upcoming major update with partnership integrations for easier DeFi trading, focusing on mobile accessibility to onboard more users.
+
+#### Partnerships, Integrations, and Adoption
+- **Midnight Mainnet Launch**: Cardano's privacy-focused sidechain goes live with 10 key partners (possibly large ADA holders or cloud providers), including a Google Cloud collaboration for validators and builder support. This emphasizes privacy tech, federated operations, and ecosystem integrations.
+- **Bitcoin DeFi Integration**: Hoskinson outlined potential for Cardano's TVL to reach $10–15B via smart contract extensions, with projects like Indigo leading cross-chain synergies. Discussions highlight real-world utility and ending ecosystem isolation through bridges (e.g., Midnight, Near Intents).
+- **Iagon's DePIN Push**: The decentralized storage/computing project advances with Cyclone Delivery, new UI/UX, network explorer, and MVPs for enterprises like Würth Group ($50–100M deal potential) and Ford for secure data. This spotlights revenue-generating real-world applications.
+- **Rumors of Major Stablecoin Announcement**: Speculation ties Cardano's security and decentralization to institutional appeal, potentially boosting DeFi without centralization risks and signaling ecosystem maturity.
+- **Ending Isolation via Partnerships**: Recent moves include Brave Wallet support for 100M+ users, Coinbase's cbADA, Blockchain.com's SNEK PFP, and re-inclusion in Hashdex NASDAQ Crypto Index ETF—fostering interoperability and mainstream bridges.
+- **Bitrue's Delegation Program**: Launching community-voted ADA delegations to stake pools, promoting decentralization and SPO engagement.
+- **S&P Crypto Index Fund (SPCBDM)**: Includes ADA, reflecting institutional recognition in diversified portfolios.
+
+#### Community Events and Surveys
+- **2025 Developer Ecosystem Survey**: Launched by EMURGO and others, calling builders for feedback on tools, libraries, and docs to prioritize improvements—expected to take 10–15 minutes and drive collaborative infrastructure enhancements.
+- **Battle of the Builders Finalists**: Ten projects (e.g., Andamio for education, Iagon for storage, BikeID for identity, ThrustIQ for AI insights, UTXOS for Web3) selected for Cardano Summit Day Zero pitches in Berlin, showcasing real-world apps in health, data, and more.
+- **Cardano Summit 2025 (Berlin)**: Hype building with participation ops like pro studio recordings, project teasers, and a $30K hackathon prize pool (entries open, showcase November 11). Focuses on blockchain-enterprise intersections and builder diversity.
+- **Weekly Community Events**: Updates include Cardano Days, board elections at Intersect, and broader involvement opportunities.
+
+#### Debates and Broader Discussions
+- **Capped Supply vs. Inflation Models**: Comparisons to MultiverseX's shift to uncapped supply and 9.47% inflation for rewards, contrasting Cardano's fixed 45B ADA for scarcity and sustainability via fees—sparking nuanced talks on long-term economics without breaking core promises.
+- **Politics and Crypto's Future**: Hoskinson critiques the political left's institutional alignments as anti-decentralization, linking to threats like DeFi bans and urging pushback for economic freedom.
+- **Community Challenges**: Reflections on PoS delegation skewing influence toward plutocracy, calls for better voter engagement, independent voices, and addressing "chronically misaligned benefactors" in governance.
+- **Ecosystem Wallets and Tools**: Emphasis on Cardano's diverse, user-friendly wallets to drive accessibility and adoption.
+
+Overall, Cardano's momentum is driven by scalability breakthroughs (e.g., Hydra, Leios), privacy innovations (Midnight), and governance evolution, amid debates on treasury use and economic models. Institutional interest via ETFs and indexes validates its blue-chip status, while community events like the Summit foster collaboration. These developments position Cardano for enhanced DeFi, real-world utility, and global growth in 2026 and beyond.
